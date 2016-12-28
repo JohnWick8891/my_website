@@ -1,6 +1,11 @@
 class PivotController < ApplicationController
    def home
    
-   end 
+   end
+   
+   def about
+       
+   end
+   
     
 end
